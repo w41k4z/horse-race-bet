@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "D2h6Essp5BPWpTQzQt3uq3V8WJue4BL/6XtYvs3q4A0W+IJemUh2rLYV+GbPtDBBsSSgJGMV+092PgQFF8ErVg==",
+  "success": true,
+  "projectFilePath": "D:\\Projects\\.NetProject\\C#\\desktop\\horse-race-bet\\horse-race-bet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Alain\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\6.0.0\\microsoft.extensions.logging.abstractions.6.0.0.nupkg.sha512",
+    "C:\\Users\\Alain\\.nuget\\packages\\npgsql\\7.0.4\\npgsql.7.0.4.nupkg.sha512"
+  ],
+  "logs": []
+}
